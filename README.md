@@ -212,3 +212,11 @@ There are a _lot_ of big pieces missing. MinScript at this stage is mostly an MV
 - Additional control and logic statements
 - Syntax checker and detailed error output
 - Better documentation (if anyone actually wants to use MiniScript, email me and I'll try to expand on this README...)
+
+## Author
+
+**Matt Reagan** - Website: [http:/mattreagandev.com/](http://mattreagandev.com/) - Twitter: [@hmblebee](https://twitter.com/hmblebee)
+
+## License
+
+Source code and related resources are Copyright (C) Matthew Reagan 2016. The source code is released under the [MIT License](https://opensource.org/licenses/MIT).
