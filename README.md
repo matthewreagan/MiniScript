@@ -2,11 +2,11 @@
 
 MiniScript is an extremely simple and ultra-lightweight scripting language with a BASIC-like syntax, written in Swift. It supports:
 
-    - Basic logic & control flow (if/else/end, while loops)
-    - Local & global (cross-script) variables
-    - Integer & floating-point math, and strings
-    - String interpolation
-    - Super-easy bridging to Swift code, via custom commands. This gives you access to the full Swift standard library (as well as UIKit / AppKit, etc.)
+- Basic logic & control flow (if/else/end, while loops)
+- Local & global (cross-script) variables
+- Integer & floating-point math, and strings
+- String interpolation
+- Super-easy bridging to Swift code, via custom commands. This gives you access to the full Swift standard library (as well as UIKit / AppKit, etc.)
 
 ## What's it for?
 
